@@ -4,6 +4,14 @@
   <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_4_r9334:9343" segtype="sentence" srclang="EN-GB"/>
   <body>
 <!-- Default translations -->
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>Midway upon the journey of our life</seg>
+      </tuv>
+      <tuv lang="IT" changeid="Marina Latini" changedate="20161119T105438Z" creationid="Marina Latini" creationdate="20161119T105438Z">
+        <seg>Nel mezzo del cammin di nostra vita</seg>
+      </tuv>
+    </tu>
 <!-- Alternative translations -->
   </body>
 </tmx>
